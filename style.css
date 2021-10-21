@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1
+{
+    font-size: medium;
+    color: aqua;
+
+}
+
+h2
+{
+	color: blue;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+button
+{
+	background-color: white;
+	width: fit-content;
+	font-family: cursive;
+
+}
+
+
+body
+{
+font-size: x-large;
+font-weight: 200;
+font-family: cursive;
+line-height: 1.3em;
+
+}
+
+.box-1{
+	background-color: #333;
+	color: #fff;
+border: 10px red solid;
+border-right-width: 10px;
+border-top-width: 20px;
+border-top-style: dotted;
+padding-top: 100px;
+}
+
+.container{
+
+	width: 80%;
+	margin-block-end: auto;
+}
